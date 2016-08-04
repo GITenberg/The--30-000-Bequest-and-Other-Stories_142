@@ -1,0 +1,43 @@
+_repo: The--30-000-Bequest-and-Other-Stories_142
+_version: 0.0.1
+alternative_title: The 30,000 Dollar Bequest, and Other Stories
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Humorous stories, American'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: 'The 30,000 Dollar Bequest -- A Dog''s Tale -- Was It Heaven? Or
+  Hell? -- A Cure for the Blues -- The Enemy Conquered; or, Love Triumphant -- The
+  Californian''s Tale -- A Helpless Situation -- A Telephonic Conversation -- Edward
+  Mills and George Benton:  A Tale -- The Five Boons of Life -- The First Writing-machines
+  -- Italian without a Master -- Italian with Grammar -- A Burlesque Biography --
+  How to Tell a Story -- General Washington''s Negro Body-servant -- Wit  -- Inspirations
+  of the "Two-year-olds" -- An Entertaining Article -- A Letter to the Secretary of
+  the Treasury -- Amended Obituaries -- A Monument to Adam -- A Humane Word from Satan
+  -- Introduction to "The New Guide of the Conversation in Portuguese and English"
+  -- Advice to Little Girls -- Post-mortem Poetry -- The Danger of Lying in Bed --
+  Portrait of King William III -- Does the Race of Man Love a Lord? -- Extracts from
+  Adam''s Diary -- Eve''s Diary'
+title: The $30,000 Bequest, and Other Stories
+url: http://www.gutenberg.org/ebooks/142

@@ -1,6 +1,9 @@
 _repo: The--30-000-Bequest-and-Other-Stories_142
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The 30,000 Dollar Bequest, and Other Stories
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/142#The--30-000-Bequest-and-Other-Stories
 gutenberg_issued: '2004-09-14'
 gutenberg_type: Text
 identifiers:
